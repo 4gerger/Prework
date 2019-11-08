@@ -1,0 +1,22 @@
+#body {
+    margin-left:15px    
+}
+.hr {
+    padding:0px;
+    margin:0px
+}
+img {
+    float: right;
+}
+.contentsbox {
+    background-color:#f5f5f5;
+    border-style:solid;
+    border-width:1px;
+    width:250px;
+    margin-bottom:10px;
+    font-size:16px
+}
+#contentstext {
+    text-indent:95px;
+    font-weight:bold
+}
